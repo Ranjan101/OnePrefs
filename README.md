@@ -1,4 +1,4 @@
-SinglePrefs
+OnePrefs
 ===============
 A small library containing a wrapper/helper for the shared preferences of Android with ability to specify default values at top level
 
