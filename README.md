@@ -30,7 +30,7 @@ Retrieving data from the Shared Preferences can be as simple as `String data = P
 
 # License
 ```
-Copyright 2014 Pixplicity (http://pixplicity.com)
+Copyright 2016 Pixplicity (www.samwolfand.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
