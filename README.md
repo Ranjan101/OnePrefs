@@ -34,9 +34,13 @@ to save values to the Shared Preferences anywhere in your app.
 
 Retrieving data from the Shared Preferences can be as simple as `String data = Prefs.getString(key)` now you simply get the String if the Shared Preferences contains the key or the default String value entered. So you don't use those pesky `contains()` checks or `data != null` checks.
 
+# Download
+```
+compile 'com.samwolfand.oneprefs:one-prefs:1.0'
+```
 # License
 ```
-Copyright 2016 Pixplicity (www.samwolfand.com)
+Copyright 2016 Sam Wolfand (www.samwolfand.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
