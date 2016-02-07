@@ -1,5 +1,8 @@
 OnePrefs
 ===============
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-OnePrefs-green.svg?style=true)](https://android-arsenal.com/details/1/3114)
+
 A small library containing a wrapper/helper for the shared preferences of Android with ability to specify default values at top level
 
 With this library you can initialize the shared preference inside the onCreate of the Application class of your app.
